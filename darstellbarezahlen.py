@@ -52,7 +52,7 @@ if __name__ == "__main__":
     s = 0
     m = 0
     b = 2
-    e = 121
+    e = 121 # restliche Zahlen schon nach erstem Durchlauf erfasst (e > 121 ist sehr nah an 0.0)
 
     histogram_klassen = 100
 
